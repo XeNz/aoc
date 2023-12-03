@@ -35,7 +35,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn it_adds_two() {
+    fn test_process() {
         assert_eq!(142, process("1abc2
 pqr3stu8vwx
 a1b2c3d4e5f

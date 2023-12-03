@@ -79,7 +79,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn it_adds_two() {
+    fn test_process() {
         assert_eq!(281, process("two1nine
 eightwothree
 abcone2threexyz
